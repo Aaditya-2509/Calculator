@@ -1,0 +1,51 @@
+.number{
+    border: none;
+    background-color: rgb(65, 60, 60);
+    color: white;
+    height: 50px;
+    width: 50px;
+    font-size: 20px;
+    border-radius: 50px;
+    font-family: Arial;
+}
+
+.operator{
+    border: none;
+    background-color: rgb(202, 145, 29);
+    color: white;
+    height: 50px;
+    width: 50px;
+    font-size: 20px;
+    border-radius: 50px;
+    font-family: Arial;
+}
+
+.clear{
+    border: none;
+    background-color: rgb(65, 60, 60);
+    color: white;
+    height: 50px;
+    width: 50px;
+    font-size: 15px;
+    border-radius: 50px;
+}
+
+body{
+    background-color: rgb(0, 0, 0);
+}
+
+.heading{
+    font-family: Verdana, Geneva, Tahoma, sans-serif;
+    font-size: 30px;
+    color: white;
+    font-weight: bolder;
+}
+
+.calculation{
+    font-family: Arial;
+    font-size: 30px;
+    color: white;
+    font-weight: bolder;
+}
+
+
